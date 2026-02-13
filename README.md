@@ -2,7 +2,7 @@
 
 HabitFlow is a minimalist, responsive habit tracking web application built with Next.js and TailwindCSS. It helps users build consistency through streak tracking, motivational insights, and a clean user experience.
 
-![HabitFlow Dashboard Mockup](https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?auto=format&fit=crop&q=80&w=1000)
+![HabitFlow Dashboard Mockup](![alt text](image.png))
 
 ## ✨ Features
 
